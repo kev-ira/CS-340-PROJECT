@@ -9,5 +9,5 @@ the input file, and finally the logger thread, which takes the data from the str
 The files, FCFS, SJF, and PRIORITY, are examples of input the program would accept, and the out files show the final output.
 
 This program takes command line arguments. To have it run, put
-iraheta_23957521.exe (CPU Scheduling algorithm) (Name of input file) (Name of output file)
-ex: iraheta_23957521.exe FCFS FCFS.txt FCFSout.txt
+iraheta.exe (CPU Scheduling algorithm) (Name of input file) (Name of output file)
+ex: iraheta.exe FCFS FCFS.txt FCFSout.txt
